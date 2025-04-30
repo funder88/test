@@ -1,0 +1,8 @@
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\bin\Debug\STP_sharp.exe.config
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\bin\Debug\STP_sharp.exe
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\bin\Debug\STP_sharp.pdb
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\obj\Debug\STP_sharp.csproj.AssemblyReference.cache
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\obj\Debug\STP_sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\obj\Debug\STP_sharp.csproj.CoreCompileInputs.cache
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\obj\Debug\STP_sharp.exe
+C:\Users\xes-n\source\repos\STP_sharp\STP_sharp\obj\Debug\STP_sharp.pdb
